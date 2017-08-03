@@ -1,6 +1,6 @@
 Attribute VB_Name = "mClear"
 ' @(h) mClear.BAS ver 1.0 ( 2017.08.01 Numtech)
-
+' dfjaklf;jdsalkfjkdsakjf
 ' @(s)
 '
 ' This module clears existing results from Excel sheets.
